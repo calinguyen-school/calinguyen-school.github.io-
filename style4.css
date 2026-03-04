@@ -1,13 +1,10 @@
 /* Style général pour la page */
 body {
-    font-family: 'Arial', sans-serif;
-    margin: 0;
-    padding: 20px;
-    background-color: #ffffff; /* Fond blanc épuré */
-    color: #333; /* Texte sombre */
-    line-height: 1.6;
-    text-align: center;
-    transition: background-color 0.3s, color 0.3s; /* Transition fluide entre les modes */
+    background-image: url("polka dots fro site.jpg");
+    background-size: cover;        /* L'image couvre tout l'écran */
+    background-position: center;   /* Centrée */
+    background-repeat: no-repeat;  /* Pas répétée */
+    background-attachment: fixed;  /* Effet fixe au scroll */
 }
 
 /* Mode sombre */
