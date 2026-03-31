@@ -10,7 +10,7 @@ body {
 /* Mode sombre */
 body.dark-mode {
     background-color: #1e1e2f; /* Fond bleu nuit */
-    color: #e0e0e0; /* Texte gris clair */
+    color: #e0e0e0; /* Texte vert clair*/
 }
 
 /* Style du conteneur global */
